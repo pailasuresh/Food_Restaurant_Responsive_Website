@@ -1,0 +1,331 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Navbar-image {
+    height: 80px;
+    width: 70px;
+    padding: 5px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: red rgba(170, 50, 220, .6) green;
+}
+
+#navbar-section1 {
+    color: #FCF9F4;
+    font-family: Georgia, serif;
+}
+
+#navbar-section2 {
+    color: #FCF9F4;
+    font-family: Georgia, serif;
+}
+
+#navbar-section3 {
+    color: #FCF9F4;
+    font-family: Georgia, serif;
+}
+
+#navbar-section4 {
+    color: #FCF9F4;
+    font-family: Georgia, serif;
+}
+
+
+.food-home-image {
+    background-image: url("https://as2.ftcdn.net/v2/jpg/04/18/22/51/1000_F_418225186_OCtaNADfMMtBWBwTTOTJYcyjuRMQIqjW.jpg");
+    height: 100vh;
+    background-size: 100% 100%;
+
+}
+
+.food-heading {
+    color: #B71C1C;
+    font-weight: 700;
+    font-size: 45px;
+    font-style: oblique;
+    font-family: "Roboto";
+}
+
+.spa-food-heading {
+    color: #800000;
+
+}
+
+.spa-food-para {
+    color: #0074D9;
+}
+
+.food-para {
+    color: #39B54A;
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.menu-button {
+    background-color: #dc3545;
+    color: white;
+    width: 130px;
+    height: 45px;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.order-button {
+    background-color: transparent;
+    color: red;
+    width: 130px;
+    height: 45px;
+    border-width: 3px;
+    border-radius: 8px;
+    margin-right: 10px;
+    border-color: white;
+}
+
+.why-choose-bg {
+    background-color: #a0d2eb;
+}
+
+.why-heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.why-para {
+    color: #20c997;
+    font-family: "Bree serif";
+    font-size: 16px;
+}
+
+.white-card {
+    background-color: #f9fbfe;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.choose-sub-image {
+    height: 110px;
+    width: 117px;
+}
+
+.card-heading {
+    color: #1400c6;
+    font-size: 18px;
+    font-family: "Verdana";
+
+}
+
+.card-para {
+    color: #beef00;
+    font-size: 15px;
+    font-family: "Bree serif";
+}
+
+.span-offer {
+    color: #ff1d58;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.explore-bgg {
+    background-color: #d9d9d9;
+}
+
+.menu-img {
+    border-radius: 14px;
+}
+
+.menu-heading {
+    color: #494D5F;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 500;
+    margin-top: 20px;
+
+}
+
+.anchor {
+    color: #ff1d58;
+    font-family: "Bree serif";
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.borderradius {
+    border-radius: 16px;
+    margin-bottom: 20px;
+}
+
+.healthy-bgg {
+    background-color: #262626;
+}
+
+.healthy-heading {
+    font-family: Arial, sans-serif;
+    font-size: 27px;
+    font-weight: bold;
+    color: #beef00;
+}
+
+.healthy-para {
+    font-size: 16px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #8bf0ba;
+    font-weight: 300;
+}
+
+.healthy-img {
+    border-radius: 12px;
+    margin-bottom: 8px;
+}
+
+.delivery-bgg {
+    background-color: #f5f5f5;
+}
+
+.delivery-heading {
+    font-size: 27px;
+    font-weight: bold;
+    color: #FF1D58;
+    font-family: "Roboto";
+}
+
+.delivery-para {
+    color: #FF1D58;
+    font-size: 16px;
+    font-family: "Roboto";
+
+}
+
+.thank-bgg {
+    background-image: linear-gradient(to right, #2ECC40, #FFDC00);
+}
+
+.thank-heading {
+    color: #8076a3;
+    font-size: 27px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.thank-para {
+    color: #c7af6b;
+    font-size: 16px;
+    font-family: "Verdana";
+    font-weight: 600;
+}
+
+.gold-butt {
+    color: #ffffff;
+    height: 39px;
+    width: 133px;
+    border-width: 0px;
+    font-family: "Roboto";
+    border-radius: 7px;
+    background-image: radial-gradient(circle, #FFC107, #FF9800);
+
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+
+.follow-bgg {
+    background-color: #a0d2eb;
+    height: 35vh;
+}
+
+.follow-heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    font-weight: 800;
+}
+
+#special_head {
+    display: inline-block;
+    padding: 12px 30px;
+    border-radius: 14px;
+    background-image: linear-gradient(to right,
+
+            rgb(18, 194, 233),
+            rgb(196, 113, 237),
+            rgb(246, 79, 89));
+    cursor: pointer;
+}
+
+.special_head:hover {
+    animation: glow 2s linear-gradient;
+}
+
+@keyframes glow {
+    0% {
+        box-shadow: 5px 5px 20px rgb(93, 52,
+                168), -5px -5px 20px rgb(93, 52, 168);
+    }
+
+    50% {
+        box-shadow: 5px 5px 20px rgb(81, 224,
+                210), -5px -5px 20px rgb(81, 224, 210)
+    }
+
+    100% {
+        box-shadow: 5px 5px 20px rgb(93, 52,
+                168), -5px -5px 20px rgb(93, 52, 168)
+    }
+}
+
+.follow-symbols-bgg {
+    background-color: #494D5F;
+    height: 70vh;
+}
+
+.follow-symbols-heading {
+    font-size: 2vh;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 4px;
+    color: #51e2f5;
+    font-weight: bold;
+}
+
+.span-surya {
+    font-size: 2vh;
+    font-family: 'Lato', sans-serif;
+    margin-top: 4px;
+    color: #FF1D58;
+    font-weight: 800;
+}
+
+.my-img {
+    filter: drop-shadow(10px 8px 6px #ff0055);
+}
+
+#logos {
+    margin: 14px;
+}
+
+.gmailedit {
+    color: #51e2f5;
+    font-size: 2vh;
+    margin-top: 0px;
+}
+
+.rdsbutt {
+    background-image: radial-gradient(circle, #FFC107, #FF9800);
+}
+
+.first-span {
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+    margin-top: 4px;
+    color: white;
+    font-weight: 800;
+
+}
